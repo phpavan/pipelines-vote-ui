@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: vote-ui-python
     source:
-      location: 'https://github.com/blues-man/pipelines-vote-ui.git'
+      location: 'https://github.com/red-wine-software/pipelines-vote-ui.git'
       type: git
       branch: master
 components:
