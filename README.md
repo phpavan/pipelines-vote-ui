@@ -5,4 +5,4 @@
 
 ## Developer Workspace
 
-[![Contribute](https://raw.githubusercontent.com/blues-man/cloud-native-workshop/demo/factory-contribute.svg)](https://codeready-openshift-workspaces.apps.hce.y1pl.p1.openshiftapps.com/factory?url=https://github.com/red-wine-software/pipelines-vote-ui&policies.create=peruser)
+[![Contribute](https://raw.githubusercontent.com/blues-man/cloud-native-workshop/demo/factory-contribute.svg)](https://codeready-openshift-workspaces.apps.cluster-cjslk.cjslk.sandbox1525.opentlc.com/d/factory?url=https://github.com/red-wine-software/pipelines-vote-ui&policies.create=peruser)
